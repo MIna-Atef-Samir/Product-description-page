@@ -1,0 +1,11 @@
+header h1{
+    color: blue;
+}
+.chair{
+    border: 1px solid blue;
+    display: block;
+    margin: auto;
+    width: 350px;
+
+    margin-top: 30px;
+}
